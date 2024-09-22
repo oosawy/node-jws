@@ -1,5 +1,5 @@
 {
-  "name": "jws",
+  "name": "@oosawy/jws",
   "version": "4.0.0",
   "description": "Implementation of JSON Web Signatures",
   "main": "index.js",
